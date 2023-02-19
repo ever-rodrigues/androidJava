@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="popCornIds">
+        <item>@string/id01</item>
+        <item>@string/id02</item>
+        <item>@string/id03</item>
+        <item>@string/id04</item>
+        <item>@string/id05</item>
+        <item>@string/id06</item>
+        <item>@string/id07</item>
+        <item>@string/id08</item>
+        <item>@string/id09</item>
+        <item>@string/id10</item>
+    </string-array>
+
+    <string-array name="popCornNames">
+        <item>@string/normalPopCorn</item>
+        <item>@string/baconPopCorn</item>
+        <item>@string/cheesePopCorn</item>
+        <item>@string/sugarPopCorn</item>
+        <item>@string/chocolatePopCorn</item>
+        <item>@string/chocolateStrawberryPopCorn</item>
+        <item>@string/cheeseBaconPopCorn</item>
+        <item>@string/sugarStrawberryPopCorn</item>
+        <item>@string/chicletsPopCorn</item>
+        <item>@string/condensedMilkPopCorn</item>
+    </string-array>
+
+    <integer-array name="popCornPrices">
+        <item type="integer" format="int">@integer/pp1</item>
+        <item type="integer" format="int">@integer/pp2</item>
+        <item type="integer" format="int">@integer/pp3</item>
+        <item type="integer" format="int">@integer/pp4</item>
+        <item type="integer" format="int">@integer/pp5</item>
+        <item type="integer" format="int">@integer/pp6</item>
+        <item type="integer" format="int">@integer/pp7</item>
+        <item type="integer" format="int">@integer/pp8</item>
+        <item type="integer" format="int">@integer/pp9</item>
+        <item type="integer" format="int">@integer/pp10</item>
+    </integer-array>
+
+    <string-array name="popCornTypes">
+        <item>@string/normal</item>
+        <item>@string/special</item>
+        <item>@string/normal</item>
+        <item>@string/special</item>
+        <item>@string/special</item>
+        <item>@string/special</item>
+        <item>@string/special</item>
+        <item>@string/special</item>
+        <item>@string/special</item>
+        <item>@string/special</item>
+    </string-array>
+
+</resources>
