@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="normalPrice" type="integer" format="integer">3</item>
+    <item name="specialPrice" type="integer" format="integer">4</item>
+</resources>

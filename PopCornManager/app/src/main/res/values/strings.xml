@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">PopCornManager</string>
+    <string name="app_welcome">Create PopCorn</string>
+    <string name="flavorView">PopCorn Name</string>
+    <string name="textIngredient">Ingredients</string>
+    <string name="cbBacon">Bacon</string>
+    <string name="cbCheese">Cheese</string>
+    <string name="cbButter">Butter</string>
+    <string name="rbSpecial">Special</string>
+    <string name="rbNormal">Normal</string>
+
+    <string name="btnRollBackToCrud">Roll back</string>
+    <string name="btnToCrud">Insert Data</string>
+    <string name="btnAbout">About</string>
+
+
+    <string name="id01">001</string>
+    <string name="id02">002</string>
+    <string name="id03">003</string>
+    <string name="id04">004</string>
+    <string name="id05">005</string>
+    <string name="id06">006</string>
+    <string name="id07">007</string>
+    <string name="id08">008</string>
+    <string name="id09">009</string>
+    <string name="id10">010</string>
+
+    <string name="normalPopCorn">Normal Pop Corn</string>
+    <string name="baconPopCorn">Bacon Pop Corn</string>
+    <string name="cheesePopCorn">Cheese Pop Corn</string>
+    <string name="sugarPopCorn">Sugar Pop Corn</string>
+    <string name="chocolatePopCorn">Chocolate Pop Corn</string>
+    <string name="chocolateStrawberryPopCorn">Chocolate and Strawbery Pop Corn</string>
+    <string name="cheeseBaconPopCorn">Cheese and Bacon Pop Corn</string>
+    <string name="sugarStrawberryPopCorn">Sugar and Strawbery Pop Corn</string>
+    <string name="chicletsPopCorn">Chiclets Pop Corn</string>
+    <string name="condensedMilkPopCorn">Condensed Milk Pop Corn</string>
+
+    <integer name="pp1">3</integer>
+    <integer name="pp2">4</integer>
+    <integer name="pp3">4</integer>
+    <integer name="pp4">5</integer>
+    <integer name="pp5">3</integer>
+    <integer name="pp6">4</integer>
+    <integer name="pp7">4</integer>
+    <integer name="pp8">5</integer>
+    <integer name="pp9">3</integer>
+    <integer name="pp10">4</integer>
+
+    <string name="normal">NORMAL</string>
+    <string name="special">SPECIAL</string>
+
+    <string name="developerOwner">Everton Rodrigues</string>
+    <string name="course">Java Development for Mobile Devices</string>
+    <string name="email">e.rodrigues@utfpr.edu.br</string>
+    <string name="descriptionApp">This app is to help all PopCorns Selle\'s to get all information about his work day.</string>
+    <string name="descriptionAppP2">Will be very important to help the seller to make a better plan to the future sells.</string>
+
+
+
+
+
+
+</resources>
